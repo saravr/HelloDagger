@@ -1,10 +1,10 @@
 ## Use cases
 
-### Simple: Inject classes with dependencies known to Dagger
+### 1. Simple: Inject classes with dependencies known to Dagger
 
 Inject Calculator class in Application class.
 
-### Inject a class with a dependency unknown to Dagger
+### 2. Inject a class with a dependency unknown to Dagger
 
 Inject Context (without using a Module)
 
