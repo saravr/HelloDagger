@@ -8,7 +8,7 @@ import com.sandymist.hellodagger.utils.PackageHelper
 import javax.inject.Inject
 
 class HelloDaggerApplication: Application() {
-    private lateinit var appComponent: AppComponent
+    lateinit var appComponent: AppComponent
 
     // use case 1
     @Inject
