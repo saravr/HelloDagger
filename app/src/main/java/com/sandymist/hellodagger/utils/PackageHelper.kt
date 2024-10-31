@@ -1,4 +1,4 @@
-package com.sandymist.hellodagger
+package com.sandymist.hellodagger.utils
 
 import android.content.Context
 import javax.inject.Inject

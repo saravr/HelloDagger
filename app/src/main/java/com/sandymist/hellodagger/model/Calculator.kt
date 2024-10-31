@@ -1,4 +1,4 @@
-package com.sandymist.hellodagger
+package com.sandymist.hellodagger.model
 
 import javax.inject.Inject
 

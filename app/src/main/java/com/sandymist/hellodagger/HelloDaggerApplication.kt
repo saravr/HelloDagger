@@ -3,6 +3,8 @@ package com.sandymist.hellodagger
 import android.app.Application
 import com.sandymist.hellodagger.di.AppComponent
 import com.sandymist.hellodagger.di.DaggerAppComponent
+import com.sandymist.hellodagger.model.Calculator
+import com.sandymist.hellodagger.utils.PackageHelper
 import javax.inject.Inject
 
 class HelloDaggerApplication: Application() {

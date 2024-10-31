@@ -1,4 +1,4 @@
-package com.sandymist.hellodagger
+package com.sandymist.hellodagger.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
